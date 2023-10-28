@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Image.asset(
-            '/owl.jpg',
+            'assets/images/owl.jpg',
             width: 500, // Lebar gambar
             height: 800, // Tinggi gambar
           ),
